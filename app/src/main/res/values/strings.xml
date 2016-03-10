@@ -6,4 +6,11 @@
     <string name="hintCity">Ingresar Ciudad</string>
     <string name="sendCity">Enviar</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main.message.temp">%1$s \u2103</string>
+    <string name="main.message.condition">Lluvia ligera</string>
+    <string name="main.message.min">Min: %1$s \u2103</string>
+    <string name="main.message.max">Max: %1$s \u2103</string>
+    <string name="main.message.sunrise">Salida de sol: %1$s AM</string>
+    <string name="main.message.sunset">Puesta de sol: %1$s PM</string>
+    <string name="title_activity_countries">CountriesActivity</string>
 </resources>
